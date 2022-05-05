@@ -6,3 +6,20 @@
 body{
     background-color: aliceblue;
 }
+.espacamento{
+ margin-top: 1%;
+ margin-bottom: 0%;
+ margin-left: 2%;
+}
+
+#espacamento{
+    margin-top: 1%;
+}
+
+#conteudo{
+    margin-top: -2%;
+}
+
+#java{
+    margin-left: 15%;
+}
