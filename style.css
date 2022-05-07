@@ -1,3 +1,7 @@
+.navbar{
+    margin-bottom: 0px;
+}
+
 .posi{
     margin: 1%;
     width: 45%;
@@ -14,10 +18,6 @@ body{
 
 #espacamento{
     margin-top: 1%;
-}
-
-#conteudo{
-    margin-top: -2%;
 }
 
 #java{
