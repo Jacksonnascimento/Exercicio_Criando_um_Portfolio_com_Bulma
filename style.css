@@ -23,11 +23,9 @@ body{
 #java{
     margin-left: 15%;
 }
-.nomecurso{
-    margin-top: 1%;
-    margin-bottom: 0%;
-    margin-left: 2%;
-    font-weight: bold
+.cursos{
+    margin-bottom: 9%;
+    
 }
 .nomeform{
     margin-bottom: 1%;
